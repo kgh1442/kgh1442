@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @kgh1442
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+  
+  👋 Hi, I'm GAHEE KIM.
+  
+  🏃‍♀️ My strengths are .
 
-<!---
-kgh1442/kgh1442 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-                                                        
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
+
+  👇 **Are you curious about me?** 👇
+
+  [![](https://user-images.githubusercontent.com/65346989/127509417-c2f672e7-70a8-4d44-b43f-70364e022a81.png)](https://www.notion.so/a956a74fe6ae42b39da6693a95da06e0) 
+
+
+  
+<a href="https://github.com/kgh1442"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>  
+
+</div>
+
+
