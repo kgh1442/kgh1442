@@ -27,11 +27,8 @@
 
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
 - 📚 I’m currently learning **AWS and Python**;
-- ✅ My interests are **Java, AWS, Python, SQL, and algorithms**;
 - ✅ My interests are **Java, AWS, Python, SQL, and Algorithms**;
 - 🤖 I love technology and art (Leonardo da Vinci, you're the man!); 🎨
-- 👽 Fun facts: **I also love films, poems and music**;
-- 👨‍🚀 This is my portfolio: <a href=" " target=" </a>
 - 👽 Fun facts: **I also love films, poems and arts**;
 - 👨‍🚀 This is my portfolio: <a href=" " target="_blank" </a>
 - ⏳ I’m currently working on <a href=" " target="_blank"> </a>
@@ -51,7 +48,7 @@
   [![Spring](https://img.shields.io/badge/Spring-orange?style=flat&logo=Spring&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
   ![Springboot](https://img.shields.io/badge/Springboot-%23777BB4.svg?&style=flat&logo=Springboot&logoColor=white)
-  [![JPA](https://img.shields.io/badge/JPA-A8B9CC?style=flat&logo=JPA&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442) 
+  [![JPA](https://img.shields.io/badge/-A8B9CC?style=flat&logo=JPA&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442) 
   
 - 🌐 &nbsp;
   ![JQuery](https://img.shields.io/badge/JQuery%20-%2320232a.svg?&style=flat&logo=JQuery&logoColor=%2361DAFB)
@@ -64,9 +61,9 @@
   ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/GitLab%20-%23121011.svg?&style=flat&logo=gitlab&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle-%2300f.svg?&style=flat&logo=Oracle&logoColor=white)
-  ![Apache Tomcat](https://img.shields.io/badge/Apache Tomcat%20-%23D42029.svg?&style=flat&logo=apacheTomcat&logoColor=white)
-  
+  ![SQL Developer](https://img.shields.io/badge/SQLDeveloper-%2300f.svg?&style=flat&logo=SQLDeveloper&logoColor=white)
+  ![Apache](https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=flat&logo=apache&logoColor=white)
+
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse%20-333333?style=flat&logo=Eclipse&logoColor=007ACC)
