@@ -42,21 +42,21 @@
 <p>
 
   <a href=" ">
-  <img width="35%" align="right" alt="FlavioGomes's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogomesbr&count_private=true&theme=dracula">
+  <img width="35%" align="right" alt="kgh1442's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgh1442&count_private=true&theme=dracula">
   </a>
 
 - 💻 &nbsp;
-  [![C#](https://img.shields.io/badge/CSharp-purple?style=flat&logo=csharp&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr)
-  [![.NET](https://img.shields.io/badge/.NET-blue?style=flat&logo=dotnet&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr) 
-  ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
-  [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr)
+  [![Java](https://img.shields.io/badge/Java-purple?style=flat&logo=Java&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442)
+  [![Oracle](https://img.shields.io/badge/.Oracle-blue?style=flat&logo=Oracle&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442) 
+  ![MyBatis](https://img.shields.io/badge/MyBatis%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
+  [![Spring](https://img.shields.io/badge/Spring-orange?style=flat&logo=Spring&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
-  [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr) 
+  ![Springboot](https://img.shields.io/badge/Springboot-%23777BB4.svg?&style=flat&logo=Springboot&logoColor=white)
+  [![JPA](https://img.shields.io/badge/-A8B9CC?style=flat&logo=JPA&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442) 
 
   
 - 🌐 &nbsp;
-  ![React](https://img.shields.io/badge/React.js%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
+  ![JQuery](https://img.shields.io/badge/JQuery%20-%2320232a.svg?&style=flat&logo=JQuery&logoColor=%2361DAFB)
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -66,7 +66,7 @@
   ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/GitLab%20-%23121011.svg?&style=flat&logo=gitlab&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
+  ![SQL Developer](https://img.shields.io/badge/SQL Developer-%2300f.svg?&style=flat&logo=SQL Developer&logoColor=white)
   ![Apache](https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=flat&logo=apache&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=flat&logo=nginx&logoColor=white)
   ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=flat&logo=heroku&logoColor=white)
@@ -79,7 +79,7 @@
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+  ![Notion](https://img.shields.io/badge/-Notion-16C60C?style=flat-square&logo=Notion&logoColor=white)
   ![Excel](https://img.shields.io/badge/-Excel-16C60C?style=flat-square&logo=excel&logoColor=white)
   ![MS Project](https://img.shields.io/badge/-MS_Project-16C60C?style=flat-square&logo=project&logoColor=white)
 
