@@ -10,28 +10,29 @@
   -->
 
   <!--
-  <a href="mailto:flaviogonasc@gmail.com" target="_blank">
+  <a href="mailto:kgh1442@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"> 
   </a>
   -->
 
 </p>
 
-<h3 align="center"> Backend Developer & Cinéphile  </h3>
+<h3 align="center"> Backend Developer & Bachelor of Laws
+  </h3>
 
 <p align="center">
-  <img alt="ProfilViews" src="https://views.whatilearened.today/views/github/flaviogomesbr/flaviogomesbr.svg" />
-<!--  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=flaviogomesbr.flaviogomesbr" />  -->
+  <img alt="ProfilViews" src="https://views.whatilearened.today/views/github/kgh1442/kgh1442.svg" />
+<!--  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kgh1442.kgh1442" />  -->
 </p>
 
 <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
 - 📚 I’m currently learning **AWS and Python**;
-- ✅ My interests are **Java, AWS, Python, SQL, and algorithms**;
+- ✅ My interests are **Java, AWS, Python, SQL, and Algorithms**;
 - 🤖 I love technology and art (Leonardo da Vinci, you're the man!); 🎨
-- 👽 Fun facts: **I also love films, poems and music**;
-- 👨‍🚀 This is my portfolio: <a href=" " target=" </a>
+- 👽 Fun facts: **I also love films, poems and arts**;
+- 👨‍🚀 This is my portfolio: <a href="https://www.notion.so/Gahee-Kim-a956a74fe6ae42b39da6693a95da06e0" target="_blank" </a>
 - ⏳ I’m currently working on <a href=" " target="_blank"> </a>
 
 <br/>
