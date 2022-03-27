@@ -17,7 +17,7 @@
 
 </p>
 
-<h3 align="center"> Backend Developer &  </h3>
+<h3 align="center"> Backend Developer & Cinéphile  </h3>
 
 <p align="center">
   <img alt="ProfilViews" src="https://views.whatilearened.today/views/github/flaviogomesbr/flaviogomesbr.svg" />
