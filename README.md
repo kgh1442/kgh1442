@@ -73,15 +73,12 @@
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse%20-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse%20-333333?style=flat&logo=Eclipse&logoColor=007ACC)
   
 - 🖥 &nbsp;
-  ![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
-  ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
+  ![ERDCloud](https://img.shields.io/badge/-ERDCloud-00ADEF?style=flat-square&logo=ERDCloud&logoColor=white)
   ![Notion](https://img.shields.io/badge/-Notion-16C60C?style=flat-square&logo=Notion&logoColor=white)
-  ![Excel](https://img.shields.io/badge/-Excel-16C60C?style=flat-square&logo=excel&logoColor=white)
-  ![MS Project](https://img.shields.io/badge/-MS_Project-16C60C?style=flat-square&logo=project&logoColor=white)
 
 <br/>
 
