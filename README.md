@@ -48,33 +48,30 @@
 
 - 💻 &nbsp;
   [![Java](https://img.shields.io/badge/Java-purple?style=flat&logo=Java&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442)
-  [![Oracle](https://img.shields.io/badge/Oracle-blue?style=flat&logo=Oracle&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442) 
-  ![MyBatis](https://img.shields.io/badge/MyBatis%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
-  [![Spring](https://img.shields.io/badge/Spring-orange?style=flat&logo=Spring&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442)
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
+   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
+  ![MyBatis](https://img.shields.io/badge/MyBatis%20-%2343853D.svg?&style=flat&logo=MyBatis&logoColor=white)
+  [![Spring](https://img.shields.io/badge/Spring-orange?&style=flat&logo=Spring&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442)
   ![Springboot](https://img.shields.io/badge/Springboot-%23777BB4.svg?&style=flat&logo=Springboot&logoColor=white)
-  [![JPA](https://img.shields.io/badge/-A8B9CC?style=flat&logo=JPA&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442) 
+  [![JPA](https://img.shields.io/badge/-A8B9CC?&style=flat&logo=JPA&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442) 
+  [![Servlet/JSP](https://img.shields.io/badge/Servlet/JSP-blue?&style=flat&logo=Servlet/JSP&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442) 
 
-  
 - 🌐 &nbsp;
-  ![JQuery](https://img.shields.io/badge/JQuery%20-%2320232a.svg?&style=flat&logo=JQuery&logoColor=%2361DAFB)
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/BootStrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
+  ![JQuery](https://img.shields.io/badge/JQuery%20-%2320232a.svg?&style=flat&logo=JQuery&logoColor=#0769AD)
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=#E34F26)
+  ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=#1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=#F7DF1E)
+  ![Bootstrap](https://img.shields.io/badge/BootStrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=#7952B3)
   
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab%20-%23121011.svg?&style=flat&logo=gitlab&logoColor=white)
-  ![SQL Developer](https://img.shields.io/badge/SQLDeveloper-%2300f.svg?&style=flat&logo=SQLDeveloper&logoColor=white)
-  ![Apache](https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=flat&logo=apache&logoColor=white)
-  ![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=flat&logo=nginx&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=flat&logo=heroku&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=#181717)
+  ![GitLab](https://img.shields.io/badge/GitLab%20-%23121011.svg?&style=flat&logo=gitlab&logoColor=#FCA121)
+  ![Oracle](https://img.shields.io/badge/Oracle-%2300f.svg?&style=flat&logo=Oracle&logoColor=#F80000)
+  ![Apache Tomcat](https://img.shields.io/badge/Apache Tomcat%20-%23D42029.svg?&style=flat&logo=Apache Tomcat&logoColor=#F8DC75)
 
 - 🔧 &nbsp;
+  ![Eclipse](https://img.shields.io/badge/-Eclipse%20-333333?style=flat&logo=Eclipse&logoColor=#2C2255
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse%20-333333?style=flat&logo=Eclipse&logoColor=007ACC)
+  
   
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
@@ -87,8 +84,6 @@
 
 <p align="center">
 
-👨‍🚀 by [Gahee Kim](https://github.com/)
+👨‍🚀 by [Gahee Kim](https://github.com/kgh1442)
 
 </p>
-
-<!-- ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white) --!>                                                      <!-- ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white) --!>     
