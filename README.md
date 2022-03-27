@@ -47,7 +47,7 @@
 
 - 💻 &nbsp;
   [![Java](https://img.shields.io/badge/Java-purple?style=flat&logo=Java&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442)
-  [![Oracle](https://img.shields.io/badge/.Oracle-blue?style=flat&logo=Oracle&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442) 
+  [![Oracle](https://img.shields.io/badge/Oracle-blue?style=flat&logo=Oracle&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442) 
   ![MyBatis](https://img.shields.io/badge/MyBatis%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
   [![Spring](https://img.shields.io/badge/Spring-orange?style=flat&logo=Spring&logoColor=white&link=https://github.com/kgh1442)](https://github.com/kgh1442)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
@@ -66,7 +66,7 @@
   ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/GitLab%20-%23121011.svg?&style=flat&logo=gitlab&logoColor=white)
-  ![SQL Developer](https://img.shields.io/badge/SQL Developer-%2300f.svg?&style=flat&logo=SQL Developer&logoColor=white)
+  ![SQL Developer](https://img.shields.io/badge/SQLDeveloper-%2300f.svg?&style=flat&logo=SQLDeveloper&logoColor=white)
   ![Apache](https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=flat&logo=apache&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=flat&logo=nginx&logoColor=white)
   ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=flat&logo=heroku&logoColor=white)
